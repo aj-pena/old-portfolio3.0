@@ -25,7 +25,7 @@ No installation is needed. This application is run in a live webpage. Follow the
 
 ## Usage
 
-To use this application, go to the deployed webpage by followig this link: [Visit the deployed page](https://aj-pena.github.io/Portfolio-2.0/)
+To use this application, go to the deployed webpage by followig this link: [Visit the deployed page](https://aj-pena.github.io/portfolio3.0/)
 
 ![Image of the Landing Page]( /Assets/images/screenshot.PNG "Landing Page")
 
