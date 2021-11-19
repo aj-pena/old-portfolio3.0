@@ -93,6 +93,9 @@ ul {
     
 }
 /* Work section */
+.card{
+    margin: 1%;
+}
 .work{
     /* max-height: 20vh; */
     margin-top: 3vh;
