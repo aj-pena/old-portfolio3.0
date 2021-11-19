@@ -1,0 +1,25 @@
+
+
+Technical Acceptance Criteria 25/40
+
+first image isn't larger in size than the others (-5)
+Clicking on a featured application doesn't open that deployed application (at least one application, in case they are using placeholders) (-5)
+The application's navigation doesn't link to each corresponding section on the page (-5)
+Repository Quality 8/13
+
+Repo doesn't include a high quality README with screenshots, a description, link to deployed application (copying and pasting homework instructions is not enough)
+Application Quality 10/15
+
+Application could resemble the mock-up functionality provided in challenge instructions a bit more closely
+Reach out to TAs, tutors, and learning assistants for help. You got this!
+
+____________________________________________________________________________________________
+
+Use jQuery in Your Portfolio
+
+Enhance your portfolio using jQuery. Can you animate something using the [jQuery animation library](https://api.jquery.com/animate/)? Or you might choose to implement another jQuery functionality that you've learned this week.
+
+
+Build a Small Application
+
+With your new skills, you may be tempted to incorporate external data in your existing portfolio, like displaying today's weather. But why not take things a step further? Try building a small application that's enticing to prospective employers. For example, you could build a dynamic weather app that uses the browser API to get the user's location, then makes a request to an external API to display the weather. Be sure to push the final page to GitHub, get a live site going, and write a fully formed readme file.
